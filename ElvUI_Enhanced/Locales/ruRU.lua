@@ -11,29 +11,29 @@ L["WATCHFRAME_DESC"] = "Настройте отображение списка �
 L["GearScore '3.1.20b - Release' is not for WotLK. Download 3.1.7. Disable this version?"] = "GearScore '3.1.20b - Release' не для WotLK. Загрузите 3.1.7. Отключить эту версию?"
 
 -- AddOn List
-L["Enable All"] = true
-L["Dependencies: "] = true
-L["Disable All"] = true
-L["Load AddOn"] = true
-L["Requires Reload"] = true
+L["Enable All"] = "Включить все"
+L["Dependencies: "] = "Зависимые ресурсы:"
+L["Disable All"] = "Отключить все"
+L["Load AddOn"] = "Загрузить мидофикации"
+L["Requires Reload"] = "Требуется перезагрузка"
 
 -- Chat
-L["Filter DPS meters Spam"] = true
-L["Replaces reports from damage meters with a clickable hyperlink to reduce chat spam"] = true
+L["Filter DPS meters Spam"] = "Фильтр спама DPS-метров"
+L["Replaces reports from damage meters with a clickable hyperlink to reduce chat spam"] = "Заменяет отчеты DPS-метров кликабельной гиперссылкой для уменьшения спама в чате."
 
 -- Datatext
-L["Ammo/Shard Counter"] = true
-L["Combat Indicator"] = true
-L["Distance"] = true
-L["In Combat"] = true
+L["Ammo/Shard Counter"] = "Счетчик боеприпасов/осколков"
+L["Combat Indicator"] = "Индикатор боя"
+L["Distance"] = "Расстояние"
+L["In Combat"] = "В бою"
 L["New Mail"] = "Новое письмо"
 L["No Mail"] = "Нет писем"
-L["Out of Combat"] = true
-L["Reincarnation"] = true
-L["Target Range"] = true
+L["Out of Combat"] = "Выход из боя"
+L["Reincarnation"] = "Возрождение"
+L["Target Range"] = "Дистанция до цели"
 
 -- Death Recap
-L["Death Recap Frame"] = true
+L["Death Recap Frame"] = "Окно информации о смерти"
 L["%s %s"] = "Урон: %s %s"
 L["%s by %s"] = "%s - %s"
 L["%s sec before death at %s%% health."] = "%s сек. до смерти при объеме здоровья %s%%"
@@ -48,72 +48,72 @@ L["You died."] = "Вы умерли."
 
 -- Decline Duels
 L["Auto decline all duels"] = "Автоматически отклонять все дуэли."
-L["Decline Duel"] = true
-L["Declined duel request from "] = "DДуэль отклонена от "
+L["Decline Duel"] = "Отклонить дуэль"
+L["Declined duel request from "] = "Дуэль отклонена от "
 
 -- Enhanced Character Frame / Paperdoll Backgrounds
-L["Character Background"] = true
-L["Enhanced Character Frame"] = true
-L["Enhanced Model Frames"] = true
-L["Inspect Background"] = true
-L["Paperdoll Backgrounds"] = true
-L["Pet Background"] = true
+L["Character Background"] = "Фон персонажа"
+L["Enhanced Character Frame"] = "Улучшенная окно персонажа"
+L["Enhanced Model Frames"] = "Улучшенное окно модели"
+L["Inspect Background"] = "Фон осмотра"
+L["Paperdoll Backgrounds"] = "Список фонов"
+L["Pet Background"] = "Фон питомца"
 
 -- Equipment
 L["Damaged Only"] = "Только поврежденные"
 L["Enable/Disable the display of durability information on the character screen."] = "Включить/Выключить отображение информации о прочности предметов в окне персонажа."
 L["Enable/Disable the display of item levels on the character screen."] = "Включить/Выключить отображение уровня предмета в окне персонажа."
 L["Only show durabitlity information for items that are damaged."] = "Показывать уровень прочности только на поврежденных предметах."
-L["Quality Color"] = true
+L["Quality Color"] = "Цвет качества"
 
 -- General
-L["Add button to Dressing Room frame with ability to undress model."] = true
-L["Add button to Trainer frame with ability to train all available skills in one click."] = true
-L["Alt-Click Merchant"] = true
-L["Already Known"] = true
-L["Animated Achievement Bars"] = true
+L["Add button to Dressing Room frame with ability to undress model."] = "Добавить кнопку в окно «Примерочной» с возможностью раздевания модели."
+L["Add button to Trainer frame with ability to train all available skills in one click."] = "Добавьте кнопку в рамку тренера с возможностью изучить все доступные навыки в один клик."
+L["Alt-Click Merchant"] = "Alt-щелчок у торговца"
+L["Already Known"] = "Уже известно"
+L["Animated Achievement Bars"] = "Анимация полосы достижений"
 L["Automatically change your watched faction on the reputation bar to the faction you got reputation points for."] = "Автоматическое изменение фракции на панели репутации на ту, очки репутации которой вы получили."
 L["Automatically release body when killed inside a battleground."] = "Автоматически покидать тело после смерти на полях боя."
-L["Automatically select the quest reward with the highest vendor sell value."] = true
-L["Change color of item icons which already known."] = true
+L["Automatically select the quest reward with the highest vendor sell value."] = "Автоматически выбирать награду за квест с наибольшей стоимостью продажи у торговца."
+L["Change color of item icons which already known."] = "Изменение цвета значков предметов, которые уже известны."
 L["Changes the transparency of all the movers."] = "Изменяет прозрачность фиксаторов"
-L["Display quest levels at Quest Log."] = true
-L["Hide Zone Text"] = true
-L["Holding Alt key while buying something from vendor will now buy an entire stack."] = true
+L["Display quest levels at Quest Log."] = "Отображение уровней квестов в журнале заданий."
+L["Hide Zone Text"] = "Скрыть текст зоны"
+L["Holding Alt key while buying something from vendor will now buy an entire stack."] = "Удерживая клавишу Alt при покупке чего-либо у торговца можно купить весь стак."
 L["Mover Transparency"] = "Прозрачность фиксаторов"
 L["PvP Autorelease"] = "Автовыход из тела"
-L["Select Quest Reward"] = true
-L["Show Quest Level"] = true
+L["Select Quest Reward"] = "Выбирать награду за квест"
+L["Show Quest Level"] = "Показать уровень квеста"
 L["Track Reputation"] = "Отслеживание репутации"
-L["Train All Button"] = true
-L["Undress Button"] = true
+L["Train All Button"] = "Кнопка «Изучить все»"
+L["Undress Button"] = "Кнопка раздеться"
 L["Undress"] = "Раздеть"
 
 -- HD Models Portrait Fix
-L["Debug"] = true
-L["List of models with broken portrait camera. Separete each model name with ';' simbol"] = true
-L["Models to fix"] = true
-L["Portrait HD Fix"] = true
-L["Print to chat model names of units with enabled 3D portraits."] = true
+L["Debug"] = "Отладка"
+L["List of models with broken portrait camera. Separete each model name with ';' simbol"] = "Список моделей со сломанной портретной камерой. Разделите название каждой модели символом ';'"
+L["Models to fix"] = "Модели для исправления"
+L["Portrait HD Fix"] = "Портрет HD Fix"
+L["Print to chat model names of units with enabled 3D portraits."] = "Отображает в чате названия моделей юнитов с включенными 3D-портретами."
 
 -- Interrupt Tracker
-L["Interrupt Tracker"] = true
+L["Interrupt Tracker"] = "Трекер прерываний"
 
 -- Nameplates
 L["Cache Unit Class"] = true
 
 -- Minimap
 L["Above Minimap"] = "Над миникартой"
-L["Combat Hide"] = true
+L["Combat Hide"] = "Скрывать в бою"
 L["FadeIn Delay"] = "Задержка появления"
 L["Hide minimap while in combat."] = "Скрывать миникарту во время боя."
-L["Show Location Digits"] = true
-L["Toggle Location Digits."] = true
+L["Show Location Digits"] = "Показать цифры координат"
+L["Toggle Location Digits."] = "Переключить цифры координат."
 L["Location Digits"] = "Цифры координат"
-L["Location Panel"] = true
+L["Location Panel"] = "Панель локации"
 L["Number of digits for map location."] = "Колличество цифр после запятой в координатах."
 L["The time to wait before fading the minimap back in after combat hide. (0 = Disabled)"] = "Время ожидания появления миникарты после выхода из боя. (0 = Выключено)"
-L["Toggle Location Panel."] = true
+L["Toggle Location Panel."] = "Переключить панель локации."
 
 -- Timer Tracker
 L["Timer Tracker"] = true
